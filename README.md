@@ -37,6 +37,7 @@ Be sure to check out [Lamppost.io](https://lamppost.io/) for a list of upcoming 
 - [Skillcrush](http://skillcrush.com/)
 - [Thinkful](https://www.thinkful.com/)
 - [Git simple guide](http://rogerdudler.github.io/git-guide/)
+ -[Learn CSS Grid](http://www.cssgrid.io/)
 - [Frontend Masters](http://www.frontendmasters.com)
 - [Javascript.com](https://www.javascript.com/)
 - [React](https://www.thinkful.com/projects/paths/react/)
